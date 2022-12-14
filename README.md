@@ -1,5 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=SUBEEN%20PARK&fontSize=70&animation=fadeIn)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Paksubeen&layout=compact)
 
 <h2>👩🏻‍💻 Tech Stack</h2>
 <h3>🤓 I usually use</h3>
@@ -7,9 +6,12 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>&nbsp
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/>&nbsp
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>&nbsp
-<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">&nbsp
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white"/>&nbsp
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>&nbsp
+<br/>
+<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">&nbsp
+<img src="https://img.shields.io/badge/react native-1A1A1A?style=for-the-badge&logo=react&logoColor=61DAFB">&nbsp
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/>&nbsp
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white"/>&nbsp
 </p>
 
 <h3>🤔 I used before</h3>
@@ -19,7 +21,6 @@
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/>&nbsp
 <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/>&nbsp
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>&nbsp
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/>&nbsp
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>&nbsp
 <br/>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white"/>&nbsp
@@ -35,4 +36,7 @@
   <a href="https://paksubeen.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-EB4C16?style=flat-square&logo=Tistory&logoColor=white&link=https://paksubeen.tistory.com/"/></a>&nbsp
   <a href="https://www.instagram.com/paksubeen/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/paksubeen/"/></a>&nbsp
   <a href="mailto:tnqls520@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=tnqls520@naver.gmail"/></a>
+  <br/><br/>
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPaksubeen&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=false"/></a>
 </p>
+
