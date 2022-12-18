@@ -35,7 +35,8 @@
 <p align="center">
   <a href="https://paksubeen.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-EB4C16?style=flat-square&logo=Tistory&logoColor=white&link=https://paksubeen.tistory.com/"/></a>&nbsp
   <a href="https://www.instagram.com/paksubeen/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/paksubeen/"/></a>&nbsp
-  <a href="mailto:tnqls520@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=tnqls520@naver.gmail"/></a>
+  <a href="mailto:tnqls520@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=tnqls520@naver.gmail"/></a>&nbsp
+  <a href="https://www.linkedin.com/in/paksubeen/"><img src="https://img.shields.io/badge/Paksubeen-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/paksubeen"/></a>
   <br/><br/>
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPaksubeen&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=false"/></a>
 </p>
